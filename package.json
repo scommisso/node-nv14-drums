@@ -1,6 +1,6 @@
 {
   "name": "nv14-drums",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Drums for Nodevember 2014 Demo #1",
   "main": "index.js",
   "scripts": {
